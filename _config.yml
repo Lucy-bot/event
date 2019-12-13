@@ -1,15 +1,15 @@
 utc: "2019-12-25 0:00:00 -0700" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
 name: "Lucy Christmas Music Live" #Required. The human-readable name of the event
 logo: logo.png #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
-description: "My event will be so awesome. Check this
-site to see how much longer is left until. Get excited!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
+description: "A Lucy Christmas Special, Playing from 8:00 pm 12/24/19 PST time to 8:00 pm 12/26/19 PST time. Skip command will be disabled, play command will only play Christmas music."
+#Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "https://lucy.js.org" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
 hashtag: "#Lucy" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
-  background: "#FFF" #color of the background of the page
-  primary: "#3FBFBC" #primary color for the page
-  secondary: "#EE4823" #secondary color for the page
-  textcolor: "#FFF" #color of the text, which is overlayed on the primary color
+  background: "#ff33cc" #color of the background of the page
+  primary: "#0066ff" #primary color for the page
+  secondary: "#00cc66" #secondary color for the page
+  textcolor: "#000000" #color of the text, which is overlayed on the primary color
 fontfamily: "'Open Sans', sans-serif" #optional
